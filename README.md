@@ -61,7 +61,7 @@ A self-learning ecosystem turning the world's largest gathering into a human-awa
 3. Edit slides for presentation.
 
 
-
+<br><br>
 **License**: MIT  
 **Author**: Manohar Karanth P D
 
