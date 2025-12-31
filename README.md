@@ -27,7 +27,7 @@ Kumbh Mela draws millions of pilgrims, with historical stampedes, underscoring t
 ## 2025 Successes
 - **AI Data Analytics**: 24x7 situational awareness via head-counting and heatmaps.
 - **RFID/IoT Integration**: Real-time people tracking and missing-person resolutions.
-- **Bhashini Kumbh SahAIyak Chatbot**: Multilingual guidance for pilgrims.
+- **Bhashini, Kumbh Sah'AI'yak Chatbot**: Multilingual guidance for pilgrims.
 
 ## 2025 Gaps & Challenges
 - Centralized dependency delayed edge decisions during peaks.
