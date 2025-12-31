@@ -1,8 +1,8 @@
 # Stampede Management in Kumbh Mela with Ubiquitous Computing
 
-An executive presentation on stampede management at Kumbh Mela with EdgeAI crowd flow, emotion analytics, predictive communication. This is developed as a part of 'Pervasive Computing' assignment at BITS Pilani.
+An executive presentation on stampede management at Kumbh Mela with EdgeAI crowd flow, emotion analytics, predictive communication. This is developed as a part of Pervasive Computing assignment at BITS Pilani.
 
-## Original Assignment Question:
+## Original Assignment Question
 You are required to prepare and submit a short presentation consisting of just 2 to 3 slides on any one of the topics listed below.
 Suggested Topics:
 - A unique device designed to solve any day-to-day problem
